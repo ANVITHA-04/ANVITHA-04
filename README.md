@@ -7,8 +7,8 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANVITHA-04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANVITHA-04&layout=compact)
-## 📫 Connect with Me- ✉️ Email: anvithamanchala2005@gmail.com- 🔗 LinkedIn: [Anvitha Profile](https://linkedin.com/in/renuka-example)
+## 📫 Connect with Me- ✉️ Email: anvithamanchala2005@gmail.com- 
+🔗 LinkedIn: [Anvitha Profile](https://linkedin.com/in/renuka-example)
 ________________________________________
-
-![Static Badge](https://img.shields.io/badge/Message-intermediate?style=for-the-badge&label=java&color=red)
+![Static Badge](https://img.shields.io/badge/intermediate?style=for-the-badge&label=java&color=red)
 	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANVITHA-04&show_icons=true)
