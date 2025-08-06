@@ -6,7 +6,7 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANVITHA-04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANVITHA-04&layout=compact)
-## 📫 Connect with Me- ✉ Email:anvithamanchala2005@gmail.com- 🔗 LinkedIn: [Divya](www.linkedin.com/in/divya-kashetty-a73b1627a)
+## 📫 Connect with Me- ✉ Email:anvithamanchala2005@gmail.com- 🔗 LinkedIn: [Anvitha](www.linkedin.com/in/divya-kashetty-a73b1627a)
 ![Static Badge](https://img.shields.io/badge/Java%20Advancedbluejava%20for-the-badge)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANVITHA-04&show_icons=true)
 ![Static Badge](https://img.shields.io/badge/Label-java?style=flat&color=green)
